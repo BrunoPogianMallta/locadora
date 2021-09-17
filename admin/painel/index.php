@@ -17,7 +17,7 @@
 
         <div id="itens-direita">
             <img id="itens-header" src="../img/comentarios.png" />
-            <p>Comentári0s</p>
+            <p>Comentários</p>
             <button class="button"> <img id="seta" src="../img/seta_voltar.png" />Logout</button>
         </div>
 
