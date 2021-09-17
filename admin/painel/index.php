@@ -12,7 +12,7 @@
 <body>
     <div id="cabecalho-adm">
         <img id="avatar" src="../img/avatar.jpg" />
-        <div id="saudacoes">Bem vindo! <?php session_start();
+        <div id="saudacoes">Bem Vindo! <?php session_start();
                                         echo $_SESSION['nome_admin']; ?></div>
 
         <div id="itens-direita">
