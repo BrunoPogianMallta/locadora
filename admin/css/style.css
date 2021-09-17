@@ -1,0 +1,46 @@
+/*reseta margin e padding global*/
+*{margin:0;padding:0;}
+
+/*Centralizando o  painel Login*/
+#login{
+        width: 220px;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        font-family: "Arial";
+        margin-top: 10px;
+        align-items: center;
+        justify-content: center;
+    }
+
+#form_login{
+    width:220px;
+    background-color: #ccc;
+}
+
+#login{padding: 5px;}
+#login input{margin-bottom: 5px;}
+
+#login #botao_logar {background-color: #333;color:#FFF;width: 200px;padding: 3px;margin-left: 6px;}
+
+#login_field{
+    margin-left: 6px; 
+}
+
+.input_login{
+    width: 200px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+#logo_mallta{
+    width: 100%;
+    margin-left: 2px;
+    margin-bottom: 10px;
+}
+
+#mensagem{
+    width:208px;
+    color:red;
+    text-align: center;
+}
